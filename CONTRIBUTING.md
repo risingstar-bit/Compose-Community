@@ -13,7 +13,7 @@
  
 # **Contribution on Cheatsheet, RoadMaps and Notes**
 
-- you can upload cheatsheets, RoadMaps and Notes on different technical skills. Add your cheatsheets on Cheatsheet folder, RoadMpaps on Roadmaps folder and Notes on Notes folder.<br>
+- You can upload cheatsheets, RoadMaps and Notes on different technical skills. Add your cheatsheets on Cheatsheet folder, RoadMpaps on Roadmaps folder and Notes on Notes folder.<br>
 
 # **How to Contribute?**
 
