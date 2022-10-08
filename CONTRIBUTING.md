@@ -7,7 +7,7 @@
 
 # **Contribution on DSA Problems**
 
--On DSA folder you can upload or optimise algorithms.
+- On DSA folder you can upload or optimise algorithms.
 - Your algorithm must be in proper folder if not present make a folder then upload it. example- BinarySearch.java(file) -> Searching (folder)
 - You must add comments to your code so that users can easily understand.<br>
  
@@ -29,10 +29,10 @@
 Avoid Conflicts {Syncing your fork}<br>
 An easy way to avoid conflicts is to add an 'upstream' for your git repo, as other PR's may be merged while you're working on your branch/fork.<br>
 
-git remote add upstream https://github.com/risingstar-bit/Compose-Community.git<br>
+command) git remote add upstream https://github.com/risingstar-bit/Compose-Community.git<br>
 You can verify that the new remote has been added by typing<br>
 
-git remote -v<br>
+command) git remote -v<br>
 To pull any new changes from your parent repo simply run<br>
 
 git merge upstream/master<br>
