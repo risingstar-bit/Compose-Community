@@ -1,5 +1,6 @@
 #Contribution on Projects
-- You are only allowed to upload the Android Development projects (in progress..)
+- You are only allowed to upload the Android Development projects (updates in progress..)
+https://github.com/risingstar-bit/Compose-Community.git
 - Go to Project folder upload your projects with valid name. Don't spam otherwise your PR will consider as spam.
 - If you need any help create new issues with proper description.
 #Contribution on DSA Problems
