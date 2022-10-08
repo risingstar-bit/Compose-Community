@@ -1,6 +1,5 @@
 #Contribution on Projects
 - You are only allowed to upload the Android Development projects (updates in progress..)
-https://github.com/risingstar-bit/Compose-Community.git
 - Go to Project folder upload your projects with valid name. Don't spam otherwise your PR will consider as spam.
 - If you need any help create new issues with proper description.
 #Contribution on DSA Problems
@@ -12,19 +11,19 @@ https://github.com/risingstar-bit/Compose-Community.git
 
 #How to Contribute?
 
-step 1) Fork this repo (button on top)
-step 2) Clone on your local machine
-step 3) Navigate to project directory.
-         cd Compose-Community
-step 3) Create a new Branch
-        git checkout -b my-new-branch
-step 4) Do your changes
-step 5) git add .
-step 6) Commit your changes.
-        git commit -m "Relevant message"
-step 7) Then push
-        git push origin my-new-branch
-step 8) Create a new pull request from your forked repository
+-Fork this repo (button on top)
+-Clone on your local machine
+-Navigate to project directory.
+-command) cd Compose-Community
+-Create a new Branch
+-command) git checkout -b my-new-branch
+-Do your changes
+-command) git add .
+-Commit your changes.
+-command) git commit -m "Relevant message"
+-Then push
+-command) git push origin my-new-branch
+-Create a new pull request from your forked repository
 
 Avoid Conflicts {Syncing your fork}
 An easy way to avoid conflicts is to add an 'upstream' for your git repo, as other PR's may be merged while you're working on your branch/fork.
