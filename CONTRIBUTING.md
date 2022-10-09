@@ -21,20 +21,20 @@
 
 1) Fork this repo (button on top)
 2) Clone on your local machine
-3) Navigate to project directory.<br>command) cd Compose-Community<br>
-4) Create a new Branch<br>command) git checkout -b my-new-branch<br>
-5) Do your changes<br>command)git add .<br>
-6) Commit your changes<br>command) git commit -m "Relevant message"<br>
-7) Then push<br>command) git push origin my-new-branch<br>
+3) Navigate to project directory.<br>command) `cd Compose-Community`<br>
+4) Create a new Branch<br>command) `git checkout -b my-new-branch`<br>
+5) Do your changes<br>command)`git add` .<br>
+6) Commit your changes<br>command) `git commit -m "Relevant message"`<br>
+7) Then push<br>command) `git push origin my-new-branch`<br>
 8) Create a new pull request from your forked repository
 
 Avoid Conflicts {Syncing your fork}<br>
-An easy way to avoid conflicts is to add an 'upstream' for your git repo, as other PR's may be merged while you're working on your branch/fork.<br>
+An easy way to avoid conflicts is to add an 'upstream' for your `git repo`, as other PR's may be merged while you're working on your branch/fork.<br>
 
-command) git remote add upstream https://github.com/risingstar-bit/Compose-Community.git<br>
+command) `git remote add upstream https://github.com/risingstar-bit/Compose-Community.git`<br>
 You can verify that the new remote has been added by typing<br>
 
-command) git remote -v<br>
+command)` git remote -v`<br>
 To pull any new changes from your parent repo simply run<br>
 
-git merge upstream/master<br>
+`git merge upstream/master`<br>
