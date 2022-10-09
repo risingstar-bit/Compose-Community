@@ -17,9 +17,11 @@ In general: `DSA/Programming Language/Project Name`
 
 # Happy Coding !!
 
-Project Admin: [Ashish Kumar Saha](https://github.com/risingstar-bit)
+Project Admin(s): 
 
-Maintainer: [Sudip Ghosh](https://github.com/sudipg4112001)
+- [Ashish Kumar Saha](https://github.com/risingstar-bit)
+
+- [Sudip Ghosh](https://github.com/sudipg4112001)
 
 
 
