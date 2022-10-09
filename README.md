@@ -16,3 +16,28 @@ In general: `DSA/Programming Language/Project Name`
 - In General: `Folder/Sub Folder/Project Folder/ Project Files`
 
 # Happy Coding !!
+
+Project Admin: [Ashish Kumar Saha](https://github.com/risingstar-bit)
+
+Maintainer: [Sudip Ghosh](https://github.com/sudipg4112001)
+
+
+
+<table>
+<tr>
+<td align="center">
+        <a href="https://github.com/risingstar-bit">
+            <img src="https://avatars.githubusercontent.com/u/85429920?v=4" width="100;" alt="Ashish Kumar Saha"/>
+            <br />
+            <sub><b>Ashish Kumar Saha</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/sudipg4112001">
+            <img src="https://avatars.githubusercontent.com/u/60208804?v=4" width="100;" alt="Sudip Ghosh"/>
+            <br />
+            <sub><b>Sudip Ghosh</b></sub>
+        </a>
+    </td>
+</tr>
+</table>
