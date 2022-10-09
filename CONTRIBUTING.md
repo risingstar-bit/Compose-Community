@@ -2,12 +2,14 @@
 # **Contribution on Projects**
 
 - You are only allowed to upload the Android Development projects (updates in progress..)
+- You can make changes to make the project more attractive.To make any changes you should take the permission of the Project owner.
 - Go to Project folder upload your projects with valid name. Don't spam otherwise your PR will consider as spam.
 - If you need any help create new issues with proper description.<br>
 
 # **Contribution on DSA Problems**
 
 - On DSA folder you can upload or optimise algorithms.
+- You can upload DSA problems and its solutions in JAVA. Put it in a proper folder if not present then create it. Example - House Robber problem- DSA/Array/ your-file.java 
 - Your algorithm must be in proper folder if not present make a folder then upload it. example- BinarySearch.java(file) -> Searching (folder)
 - You must add comments to your code so that users can easily understand.<br>
  
