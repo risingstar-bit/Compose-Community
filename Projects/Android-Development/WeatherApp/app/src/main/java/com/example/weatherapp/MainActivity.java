@@ -80,7 +80,7 @@ public void weather(View view){
     String cityName=editText.getText().toString().trim();
     DownloadTask downloadTask=new DownloadTask();
     try {
-        // Add your weatherbit API key to local.local.properties file (WEATHER_API_KEY=xxxx)
+        // Add your weatherbit API key to local.properties file (WEATHER_API_KEY=xxxx)
         downloadTask.execute("https://api.weatherbit.io/v2.0/current?city="+cityName+"&key="+BuildConfig.WEATHER_API_KEY+"&include=minutely").get();
     }catch (Exception e){
         textView.setText("Please provide correct input");
