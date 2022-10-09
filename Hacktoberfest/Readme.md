@@ -37,7 +37,7 @@ If you liked working on this project, please share this project as much as you c
 
 ---
 
-# Why is Hacktoberfest important?
+## Why is Hacktoberfest important?
 
 1) Shake things up <br>
 	“It’s a great way to pick up new skills and a chance to do something outside your day-to-day work.” <br>
