@@ -1,0 +1,21 @@
+-Ultimate Roadmap to Master Android Development:
+    We can't imagine our lives without Android apps. Over the past two years, the number of mobile phone users has grown rapidly, and the number continues to grow. With this boom in the industry, the demand for Android developers is also growing rapidly.
+    Most people use mobile devices to surf the internet. The development of Android apps has attracted a lot of attention from the general public. 
+    Therefore it’s worthwhile to learn how Android applications are developed!
+
+    
+1. Tools:
+    Firstly, I will be mentioning which language you should choose. 
+    There is Java, Kotlin, and Flutter in the market for Android development. 
+    Java and Kotlin are native that you can select to develop App for one platform at a time. 
+    Flutter is a hybrid language you can use to develop applications both for Android and iOS phones.
+    As a beginner, I will suggest you learn java for android because if you are a beginner, then java will be a great first language for you plus, if you know java, you can easily switch to Kotlin whenever you feel like!
+
+2. Xml And Java/Kotlin:
+   If you guys are well familiar with web development, you must be knowing that HTML & CSS are used for designing the layout of your website. Javascript enables the frontend logic on a website.
+   In a similar way, XML is used for designing the layout of your application on Android. To apply the logic behind the app, we use java.
+
+3. Tips From My Experience:
+   Use a laptop with 4GB+ RAM- It’s recommended to have a laptop having 4Gb plus RAM. It will be better to use 8Gb, but you can use a 4Gb one if you can't afford it.
+   Use a Laptop with an SSD - What does an SSD do? Basically, SSD reads the files from the hard drive very fastly, and it provides an amazing performance boost to you.
+   Use an actual phone instead of AVD - In the android studio, you can create an AVD (Android Virtual Device), but if your computer is seeking more resources, you can use your mobile phone in developer mode instead of AVD.
