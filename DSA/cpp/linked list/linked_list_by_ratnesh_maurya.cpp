@@ -1,13 +1,3 @@
-/*
-Author: Ratnesh Maurya
-Concept: Linked list implementation
-All rights reserved
-Github: https://github.com/ratnesh-maurya
-*/
-
-
-
-
 
 #include<stdio.h>
 #include<stdlib.h>
