@@ -77,10 +77,11 @@ public class DownloadTask extends AsyncTask<String,Void,String>{
     }
 }
 public void weather(View view){
-    String cityName=editText.getText().toString();
+    String cityName=editText.getText().toString().trim();
     DownloadTask downloadTask=new DownloadTask();
     try {
-        downloadTask.execute("https://api.weatherbit.io/v2.0/current?city="+cityName+"&key=d4ca18e6a1134d2e94776b01d03d51d6&include=minutely").get();
+        // Add your weatherbit API key to local.properties file (WEATHER_API_KEY=xxxx)
+        downloadTask.execute("https://api.weatherbit.io/v2.0/current?city="+cityName+"&key="+BuildConfig.WEATHER_API_KEY+"&include=minutely").get();
     }catch (Exception e){
         textView.setText("Please provide correct input");
         e.printStackTrace();
