@@ -1,8 +1,8 @@
 # Depth First Traversal for Binary Tree
 
-<center>
+<p align="center">
     <img src="img/DFS1.png">
-</center>
+</p>
 
 <br>
 
@@ -26,10 +26,10 @@ In both of these cases, we need to do three things:
 
 The different depth-first strategies all revolve around the order in which we do these three things.
 
-<center>
+<p align="center">
     <img src="img/DFS2.jpeg"><br>
     Depth-first search strategies
-</center>
+</p>
 
 <br>
 
@@ -48,10 +48,10 @@ Okay. All of these definitions might seem like an awful lot of information to ta
 
 In the image below, we’re trying out all three of these techniques on a binary tree that has 12 nodes in total. This is what each of these traversals would look like if we were printing out the name of each node as we visited it:
 
-<center>
+<p align="center">
     <img src="img/DFS3.jpeg"><br>
     Preorder, inorder, and postorder traversal techniques. [EDIT: Please note that the INORDER traversal here. should read: “a, b, c, d, e, f, h, i, j, g, k, l”. Since you need to traverse through the left subtree first, we should be printing/checking node h before g, and then checking the left subtree of its children, or node i. Only after checking the left nodes/subtrees can we check node j, and then work our way back up to node g, k, and l. Sorry about the mistake here!]
-</center>
+</p>
 
 <br>
 
@@ -79,10 +79,10 @@ You might have already seen how the depth-first strategy could be implemented as
 
 We can implement this recursively by first considering what each of these nodes might look like in the context of our code. Here’s a little cross-section of a binary search tree’s node to help you visualize:
 
-<center>
+<p align="center">
     <img src="img/DFS4.jpeg"><br>
     Cross-section of a binary search tree node
-</center>
+</p>
 
 <br>
 
@@ -102,10 +102,10 @@ But what about the _space_ complexity? Well, because DFS is usually implemented 
 
 Why is this important? Well, because of the **call stack**. You might remember that stacks operate according to the last-in, first-out principle. This means that only when the last function finishes running and returns can we start popping functions that are _currently taking up space_ from off of the top of the stack.
 
-<center>
+<p align="center">
     <img src="img/DFS5.jpeg"><br>
     Recursive implementation of depth-first search
-</center>
+</p>
 
 <br>
 
