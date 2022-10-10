@@ -1,2 +1,0 @@
-In Data Science we have many starting points like NLP, Computer Vision, Robotics Medical Health care and Computer Biometrics. For learning Machine Learning in NLP you need to start with basics in which first you will learn Deep Learning Models first like RNN and CNN. After this you can go for language models like Encoder-Decoder Model, 
-sequence to sequence model. Language models are heart of NLP like you want to do translation then transformers can help. Once you are done with languae models you need to learn representation models like CoVe and ELMo. That's it.
