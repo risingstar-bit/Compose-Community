@@ -17,7 +17,7 @@ Please install following packages
 1. Download the data files for the required model. Extract and place it in the data folder.
 2. Create a new virtual environment
 
-using conda:
+using conda: 
 ```
 >>> conda create -n <env-name>
 ```
