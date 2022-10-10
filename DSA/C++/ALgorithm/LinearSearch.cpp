@@ -1,29 +1,24 @@
-#include<iostream>
+#include <bits/stdc++.h>
 using namespace std;
-
-bool linearSearch(int arr[],int size, int key){
-    for(int i=0;i<size;i++){
-        if(arr[i]==key){
-            return true;
-        }
+int linearSearch(vector<int>&a, int x)
+{
+    for(int i=0;i<a.size();i++)
+    {
+        if(a[i]==x)
+            return i;
     }
-    return false;
+    return -1;
 }
-int main(){
-    int size,key;
-    cout<<"Enter the size and Key of array: ";  
-    cin>>size>>key;
-    int arr[1000];
-    cout<<"Enter the element: ";
-    for(int i=0;i<size;i++){
-        
-        cin>>arr[i];
-    }
-    if(linearSearch(arr,size,key)){
-        cout<<"Found"<<endl;
-    }
-    else{
-        cout<<"Not Found"<<endl;
-    }
-
+int main()
+{
+    int x, ind;
+    vector<int>a{2, 5, 8, 12, 16, 23, 38, 56, 72, 91};
+    cout<<"Enter the element to search: ";
+    cin>>x;
+    ind=linearSearch(a,x);
+    if(ind != -1)
+        cout<<"Element found at index "<<ind<<"\n";
+    else
+        cout<<"Element not found\n";
+	return 0;
 }
