@@ -1,0 +1,65 @@
+This list of python project ideas for students is suited for beginners, and those just starting out with Python or Data Science in general.
+These python project ideas will get you going with all the practicalities you need to succeed in your career as a Python developer.
+
+1. Mad Libs Generator
+
+One of the best ideas to start experimenting you hands-on python projects for students is working on Mad Libs Generator. 
+This is the perfect project for beginners who are just starting out with software development. Primarily focused on strings,
+variables, and concatenation, this project will teach you how to manipulate user-inputted data. 
+The program design is such that it will ask users to enter a series of inputs that will be considered as a Mad Lib.
+
+2. Number Guessing
+
+This is one of the simple python projects yet an exciting one .
+You can even call it a mini-game. This project is particularly useful for beginners.
+Make a program in which the computer randomly chooses a number between 1 to 10, 1 to 100, or any range.
+Then give users a hint to guess the number.
+Every time the user guesses wrong, he gets another clue, and his score gets reduced.
+The clue can be multiples, divisible, greater or smaller, or a combination of all.
+
+3. Text-based Adventure Game
+
+This is a basic version of the Adventure game. It is completely text-based.
+In this version of the game, users can move about through different rooms within a single,
+setting, and based on the user input, it will provide descriptions for each room.
+This is one of the more interesting python projects for beginners.
+
+4. Dice Rolling Simulator
+
+As the name of the program suggests, we will be imitating a rolling dice.
+This is one of the interesting python projects and will generate a random number each dice the program runs, 
+and the users can use the dice repeatedly for as long as he wants.
+When the user rolls the dice, the program will generate a random number between 1 and 6 (as on a standard dice).
+
+5. Hangman
+
+This is more of a “guess the word” game. 
+The core concepts you have to use while developing this project are variables,
+random, integer, strings, char, input and output, and boolean.
+In the game, users have to enter letter guesses, 
+and each user will have a limited number of guesses (a counter variable is needed for limiting the guesses).
+The Hangman is among the most highly recommended projects to master python for beginners.
+
+7. Email Slicer
+
+This is one of the convenient python projects that has a lot of use in the future.
+To create an Email slicer with python, users have to generate a program to retrieve the username and domain of the email.
+You can even customize the application and send a message to the host with this information.
+Although it is a simple coding project idea, it is instrumental in enhancing your coding skills.
+
+8. Binary search algorithm
+
+Have you ever heard the proverb, “finding a needle in a haystack.” 
+This program is designed to do just that- by using a binary search algorithm.
+ou can create a list of random numbers between 0 to 100, with every succeeding number having a difference of 2 between them.
+
+9. Desktop Notifier App
+Have you ever wondered how notifications work? This small python project idea will throw some light on this.
+The desktop notifier apps run on your system and send you a piece of information after a fixed interval of time.
+We suggest you use libraries such as notify2, requests, etc. to build such a program.
+
+10. Python Story Generator
+
+Here, the aim is to create a random story each time the user runs the program.
+The story will be the same always but with little variation with the input.
+This is a fun but exciting python project which will work wonders with beginners to gain confidence in python.
