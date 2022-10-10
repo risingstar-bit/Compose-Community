@@ -17,6 +17,8 @@
 
 - You can upload cheatsheets, RoadMaps and Notes on different technical skills. Add your cheatsheets on Cheatsheet folder, RoadMpaps on Roadmaps folder and Notes on Notes folder.<br>
 
+## In the interview folder, you can add interview questions on different topics. <br>
+
 # **How to Contribute?**
 
 1) Fork this repo (button on top)
