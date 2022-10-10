@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python%20-Python%203.9.1-yellowgreen?style=for-the-badge&logo=python)
 
-This projects predicts the Coustomers those who are credit card defaulters.
+This projects predicts the Customers those who are credit card defaulters.
 
 ### Dataset Overview
 
