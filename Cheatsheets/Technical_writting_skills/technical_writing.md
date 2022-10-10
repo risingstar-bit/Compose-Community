@@ -1,7 +1,7 @@
 # Introduction
 
-> Good technical docume­ntation doesn’t just happen. It’s a process that takes time to develop. 
-    It can be compli­cated to write. And, it takes lots of practice to perfect. To be a profes­sional 
+> Good technical documentation doesn’t just happen. It’s a process that takes time to develop. 
+    It can be complicated to write and it takes lots of practice to perfect. To be a profes­sional 
     technical writer, you need to be able to consis­tently produce good technical docume­ntation regardless 
     of the subject. The key to doing this is to know how to write and to understand the needs of your audience. 
     In addition, profes­sional technical writers must have a natural curiosity, be techni­cally adept, and have the 
@@ -28,7 +28,7 @@
 > Adding a second set of eyes to the technical writing process increases the credib­ility and profes­sio­nalism of the entire process. As an indepe­ndent member of the docume­ntation team, the technical editor provides value-­added support to the technical writing effort by making sure the language has a logical flow, and the content is complete and consis­tent
 
 ---
-# Publishing/Maintaing
+# Publishing/Maintaining
 > Once a document is signed-off by its reviewers, it’s ready for publis­hing. At this point, the document falls into a new status­—Ma­int­enance. As products evolve, it’s important that users continue to have accurate and complete inform­ation. To make sure this happens, docume­ntation must be reviewed on a regular basis and brought up to date. For FDA regulated companies, proper mainte­nance is critical to avoid warning letters from the FDA.
 
 ![Writting_Flow_process](./Writting_flow_process.png)
