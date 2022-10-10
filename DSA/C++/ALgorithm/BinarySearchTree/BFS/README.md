@@ -1,8 +1,8 @@
 # Breadth First Traversal for Binary Tree
 
-<center>
+<p align="center">
     <img src="img/BFS1.png">
-</center>
+</p>
 
 <br>
 
@@ -20,10 +20,10 @@ BFS leans on the _queue data structure_. The nice thing about using queues is th
 
 A common term for nodes that we add to our queue is **discovered nodes**; a discovered node is one that we add to our queue, whose location we know, but we have yet to actually visit. In fact, this is exactly what makes a queue the perfect structure for solving the BFS problem.
 
-<center>
+<p align="center">
     <img src="img/BFS2.jpeg"><br>
     Using queues to implement breadth-first search
-</center>
+</p>
 
 <br>
 
@@ -51,10 +51,10 @@ In the graph below, we start off with the root node, node _f_, as the only disco
 
 And then, we’ll remove node _f_ from our queue!
 
-<center>
+<p align="center">
     <img src="img/BFS3.jpeg"><br>
     Growing the queue structure in a breadth-first search implementation
-</center>
+</p>
 
 <br>
 
