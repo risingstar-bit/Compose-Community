@@ -18,4 +18,3 @@ This projects predicts the Coustomers those who are credit card defaulters.
 - sklearn
 - matplotlib
 - seaborn
-- 
