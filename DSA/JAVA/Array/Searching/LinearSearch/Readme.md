@@ -7,8 +7,8 @@ Linear Search is defined as a sequential search algorithm that starts at one end
 3. If x doesn’t match with any of the elements, return -1.
 
 #Time Complexity
-Time complexity: O(N)
-Auxiliary Space: O(1)
+  Time complexity: O(N)
+  Auxiliary Space: O(1)
 
 
 
