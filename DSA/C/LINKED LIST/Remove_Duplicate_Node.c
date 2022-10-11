@@ -77,32 +77,6 @@ void removeDuplicates(struct node* start)
         ptr1 = ptr1->next;
     }
 }       
-/*
-struct node *removeduplicateinsorted(struct node *start )
-{
-    
-    if(start == NULL)
-        return start;
-    struct node *new_list= start;
-    while ( start->next !=NULL)
-    {
-        
-        if (start->data == start->next->data)//1 2 2 2 3 3 4 5 5
-        {
-            start-> next= start->next->next;
-
-           // start = start->next;
-        }
-        else
-        {
-            
-            start = start->next;
-        }
-
-    }
-    return new_list;
-}
-*/
 
 int main ()
 {
