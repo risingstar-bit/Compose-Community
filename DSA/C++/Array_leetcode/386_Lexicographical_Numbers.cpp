@@ -1,5 +1,5 @@
 
-// Leetcode 386
+// Leetcode 386 : Lexicographical Numbers
 
 class Solution
 {
