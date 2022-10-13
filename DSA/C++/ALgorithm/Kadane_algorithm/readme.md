@@ -1,4 +1,4 @@
-#Maximum Subarray Sum: Kadane’s Algorithm
+<h1>Maximum Subarray Sum: Kadane’s Algorithm </h1>
 
  • Subarrays are arrays inside another array which only contains contiguous elements.
 
