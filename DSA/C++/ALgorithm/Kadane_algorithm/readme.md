@@ -2,29 +2,30 @@
 
  • Subarrays are arrays inside another array which only contains contiguous elements.
 
- • ###PROBLEM-  
+ • <h3>PROBLEM-  </h3>
    Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.
 
- • ###APPROACH-  
+ • <h3>APPROACH- <h3>
    To print the subarray with the maximum sum the idea is to maintain start index of currSum at current index so that whenever maxSum is updated with currSum then start index and end index of subarray can be updated with start and current index.
 
-•  ###EXAMPLE-  
+•  <h3>EXAMPLE 1-  <h3>
     Input: [-3, -4, 5, -1, 2, -4, 6, -1]
     Output: 8
     Explanation: Subarray [5, -1, 2, -4, 6] is the max sum contiguous subarray with sum 8.
 
-•  ###EXAMPLE-  
+•  <h3>EXAMPLE 2-<h3>
     Input: nums = [-2, 1,-3,4,-1,2,1,-5,4]
     Output: 6
     Explanation: [4 ,-1,2,1] has the largest sum = 6.
 
-•  ###EXAMPLE-  
+•  <h3>EXAMPLE 3-  <h3>
     Input: nums = [-2 ,  3 , -1  , 2 ,  -2]
     Output: 4
     Explanation: [3, -1, 2] has the largest sum = 4
 
 
-• ##DRY RUN-
+• <h3>DRY RUN-<h3>
+ 
         start= starting index of maximum sum subarray
         end= starting index of maximum sum subarray 
 
