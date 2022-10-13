@@ -69,7 +69,7 @@
 
 
  • It is a very efficient algorithm as it uses 
-   Time Complexity: O(n)
+   Time Complexity: O(n) and
    Auxiliary Space: O(1)
 
 
