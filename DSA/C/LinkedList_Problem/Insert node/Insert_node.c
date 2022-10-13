@@ -1,3 +1,9 @@
+//   C Program for insert a node in the Linked List!
+//    1>  insert node at begin of list
+//    2>  insert node at the end of list
+//    3>  insert a node after a given node 
+//    4>  insert a node before a given node
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<malloc.h>
@@ -52,6 +58,9 @@ int main()
     return 0;
 }
 
+
+// function to create Linked List 
+// Enter -1 to exit the fuction
 struct node *create_ll(struct node *start)
 {
     struct node *new_node,*ptr;
@@ -83,6 +92,8 @@ struct node *create_ll(struct node *start)
     return start;
 }
 
+
+// fuction to display Linked list
 struct node *display(struct node *start)
 {
     struct node *ptr;
@@ -98,7 +109,7 @@ struct node *display(struct node *start)
     return start;
 }
 
-
+// function to insert node at begin of the Linked List!
 struct node *insert_at_begin(struct node *start)
 {
     struct node *new_node,*ptr ;
@@ -112,6 +123,7 @@ struct node *insert_at_begin(struct node *start)
     return start;   
 }
 
+// function to insert node at end of the Linked List!
 struct node *insert_at_end(struct node *start)
 {
     int val ;
@@ -130,6 +142,7 @@ struct node *insert_at_end(struct node *start)
     return start;
 }
 
+// function to insert a node before a given node of the Linked List !
 struct node *insert_at_before(struct node *start)
 {
     int num, val;
@@ -150,6 +163,8 @@ struct node *insert_at_before(struct node *start)
     new_node -> next= ptr;
     return start;
 }
+
+// function to insert a node after a given node of the Linked List !
 struct node *insert_at_after(struct node *start)
 {
     struct node *new_node, *ptr, *preptr;
