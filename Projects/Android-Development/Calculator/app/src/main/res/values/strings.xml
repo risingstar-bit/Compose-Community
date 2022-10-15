@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculator_2</string>
+
+    <string name="firstvaluehint">Enter First Value</string>
+    <string name="plus">+</string>
+    <string name="sub">-</string>
+    <string name="multiply">*</string>
+    <string name="divide">/</string>
+</resources>
