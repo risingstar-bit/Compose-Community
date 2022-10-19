@@ -61,7 +61,11 @@ If you liked working on this project, please share this project as much as you c
 	
 With all those awesome benefits and opportunities, we’re counting down the days until Hacktoberfest 2022, but plan to keep that open source spirit going all year long! <br>
 	
+### You Can Boost Your CV And Your Chances of Scoring a Job
 
+Once you’ve helped out with some Hacktoberfest projects, add them to your portfolio! Employers love seeing all of your work because it shows that you really care <br> about your career.
+
+And if your projects are meaningful and make a real difference in people’s lives, all the better!
 
 
 
