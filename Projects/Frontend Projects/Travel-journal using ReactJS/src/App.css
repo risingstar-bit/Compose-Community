@@ -1,0 +1,57 @@
+body{
+  margin: 0px;
+  font-family: 'Inter', sans-serif;
+}
+nav{
+  height: 50px;
+  background-color: #F55A5A;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 17px;
+}
+
+.card-component{
+  margin: 60px 45px;
+  display: flex;
+  flex-direction: row;
+  min-width: 500px;
+}
+.location-img{
+  height: 15rem;
+  width:  12rem;
+  border-radius: 10px
+}
+.location-info{
+  padding-left: 20px;
+}
+
+.country-name{
+  line-height: 17px;
+  font-size: 12px;
+  letter-spacing: 3px;
+  margin: 0px;
+}
+.location-info>img{
+  height: 12px;
+  width: 12px;
+}
+ .location-info>a{
+   color: #6f6f6f;
+   font-size: 11px;
+   padding-left: 10px;
+ }
+ .location-info>h2{
+   margin-top: 7px;
+ }
+.visit-date{
+  font-weight: bold;
+  font-size: 10px;
+  margin: 0px;
+  margin-bottom: 8px;
+}
+.location-text{
+  font-size: 11px;
+  line-height: 15px;
+}
