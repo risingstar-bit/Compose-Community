@@ -31,6 +31,7 @@ Explanation: 215 + 806 = 1021
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
+import java.math.*;
 
 public class ArrayForm {
     static List<Integer> addToArrayForm(int[] num, int k) {
@@ -69,6 +70,30 @@ public class ArrayForm {
     }
     public static void main(String[] args) {
         System.out.println(addToArrayForm(new int[]{2,9},72984));
+    }
+}
+//another way to solve this problem
+
+
+import java.lang.*;
+class arrayform {
+    public List<Integer> addToArrayForm(int[] num, int k) {
+        String s="";
+        ArrayList<Integer>ab= new ArrayList<Integer>();
+        for ( int i = 0; i < num.length; i++) {
+            s+=String.valueOf(num[i]);
+
+        }
+        BigInteger f = new BigInteger(s);
+        f = f.add(BigInteger.valueOf(k));
+        String p= f.toString();
+        char ch[]=p.toCharArray();
+        for (int i = 0; i < ch.length; i++) {
+            int a=Character.getNumericValue(ch[i]);
+            ab.add(a);
+        }
+        return ab;
+       
     }
 }
 
