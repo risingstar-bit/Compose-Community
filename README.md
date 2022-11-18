@@ -22,13 +22,13 @@ Project/Code/Non-code Admin(s):
 
 - [Ashish Kumar Saha](https://github.com/risingstar-bit)
 
--[Anuragh Barua](https://github.com/AnuraghB)
+- [Anuragh Barua](https://github.com/AnuraghB)
+
+- [Aisha Agarwal](https://github.com/aisha09agarwal)
 
 - [Sudip Ghosh](https://github.com/sudipg4112001)
 
--[Aisha Agarwal](https://github.com/aisha09agarwal)
-
--[Suraj Modi](https://github.com/skmodi649)
+- [Suraj Modi](https://github.com/skmodi649)
 
 
 
@@ -52,6 +52,13 @@ Project/Code/Non-code Admin(s):
         </a>
     </td>
 <td align="center">
+        <a href="https://github.com/aisha09agarwal">
+            <img src="https://avatars.githubusercontent.com/aisha09agarwal" width="100;" alt="Aisha Agarwal"/>
+            <br />
+            <sub><b>Aisha Agarwal</b></sub>
+        </a>
+    </td>
+<td align="center">
         <a href="https://github.com/sudipg4112001">
             <img src="https://avatars.githubusercontent.com/u/60208804?v=4" width="100;" alt="Sudip Ghosh"/>
             <br />
@@ -59,13 +66,6 @@ Project/Code/Non-code Admin(s):
         </a>
     </td>
 </tr>
-<td align="center">
-        <a href="https://github.com/aisha09agarwal">
-            <img src="https://avatars.githubusercontent.com/aisha09agarwal" width="100;" alt="Aisha Agarwal"/>
-            <br />
-            <sub><b>Aisha Agarwal</b></sub>
-        </a>
-    </td>
 
 <td align="center">
         <a href="https://github.com/skmodi649">
