@@ -66,7 +66,6 @@ Project/Code/Non-code Admin(s):
         </a>
     </td>
 </tr>
-
 <td align="center">
         <a href="https://github.com/skmodi649">
             <img src="https://avatars.githubusercontent.com/skmodi649" width="100;" alt="Suraj Modi"/>
