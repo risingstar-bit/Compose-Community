@@ -30,6 +30,8 @@ Project/Code/Non-code Admin(s):
 
 - [Suraj Modi](https://github.com/skmodi649)
 
+- [Sonal Modi](https://github.com/Sonal-Modi-Git)
+
 
 
 
@@ -73,4 +75,11 @@ Project/Code/Non-code Admin(s):
             <sub><b>Suraj Modi</b></sub>
         </a>
     </td>
+<td align="center">
+        <a href="https://github.com/Sonal-Modi-Git">
+            <img src="https://avatars.githubusercontent.com/Sonal-Modi-Git" width="100;" alt="Sonal Modi"/>
+            <br />
+            <sub><b>Sonal Modi</b></sub>
+        </a>
+    </td>    
 </table>
