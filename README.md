@@ -1,5 +1,7 @@
 # <center> Hacktober Fest 2023 For Everyone! </center>
-![HacktoberFest 2023](https://github.com/ashish/Hacktoberfest2023/raw/main/.github/logo.png)
+
+![logo](https://github.com/risingstar-bit/Compose-Community/assets/85429920/92f6084b-ff23-44ac-a29c-d58b1eff62a7)
+
 ## Upload Projects or Different Types of Programs in any Language
 
 Use this project to make your first contribution to an open source project on GitHub. Practice making your first pull request to a public repository before doing the real thing!
