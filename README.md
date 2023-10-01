@@ -1,5 +1,5 @@
 # <center> Hacktober Fest 2023 For Everyone! </center>
-![HacktoberFest 2023](https://github.com/ossamamehmood/Hacktoberfest2023/raw/main/.github/logo.png)
+![HacktoberFest 2023](https://github.com/ashish/Hacktoberfest2023/raw/main/.github/logo.png)
 ## Upload Projects or Different Types of Programs in any Language
 
 Use this project to make your first contribution to an open source project on GitHub. Practice making your first pull request to a public repository before doing the real thing!
