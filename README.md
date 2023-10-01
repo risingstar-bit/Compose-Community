@@ -66,6 +66,13 @@ Project/Code/Non-code Admin(s):
         </a>
     </td>
 <td align="center">
+        <a href="https://github.com/Parthmagicss">
+            <img src="https://avatars.githubusercontent.com/u/85820893?v=4" width="100;" alt="Parthib Banerjee"/>
+            <br />
+            <sub><b>Parthib Banerjee</b></sub>
+        </a>
+    </td>
+<td align="center">
         <a href="https://github.com/aisha09agarwal">
             <img src="https://avatars.githubusercontent.com/aisha09agarwal" width="100;" alt="Aisha Agarwal"/>
             <br />
