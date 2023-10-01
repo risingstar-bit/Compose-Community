@@ -1,3 +1,12 @@
+# <center> Hacktober Fest 2023 For Everyone! </center>
+## Upload Projects or Different Types of Programs in any Language
+
+Use this project to make your first contribution to an open source project on GitHub. Practice making your first pull request to a public repository before doing the real thing!
+
+# What is Hacktoberfest?
+
+Hacktoberfest is a program by Digital Ocean, DEV and Github, where you can easily win digital reward kit just by making 4 pull requests in the month of October to any open source projects on Github that are labled as hacktoberfest.
+
 
 # Compose-Community
 ### Open for all teck stacks
