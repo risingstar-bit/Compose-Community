@@ -35,6 +35,8 @@ Project/Code/Non-code Admin(s):
 - [Ashish Kumar Saha](https://github.com/risingstar-bit)
 
 - [Anuragh Barua](https://github.com/AnuraghB)
+  
+- [Parthib Banerjee](https://github.com/Parthmagicss)
 
 - [Aisha Agarwal](https://github.com/aisha09agarwal)
 
