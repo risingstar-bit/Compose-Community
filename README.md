@@ -58,6 +58,13 @@ Project/Code/Non-code Admin(s):
             <sub><b>Ashish Kumar Saha</b></sub>
         </a>
     </td>
+  <td align="center">
+        <a href="https://github.com/Sonal-Modi-Git">
+            <img src="https://avatars.githubusercontent.com/Sonal-Modi-Git" width="100;" alt="Sonal Modi"/>
+            <br />
+            <sub><b>Sonal Modi</b></sub>
+        </a>
+    </td>    
 <td align="center">
         <a href="https://github.com/AnuraghB">
             <img src="https://avatars.githubusercontent.com/anuraghb" width="100;" alt="Anuragh Barua"/>
@@ -87,11 +94,4 @@ Project/Code/Non-code Admin(s):
             <sub><b>Suraj Modi</b></sub>
         </a>
     </td>
-<td align="center">
-        <a href="https://github.com/Sonal-Modi-Git">
-            <img src="https://avatars.githubusercontent.com/Sonal-Modi-Git" width="100;" alt="Sonal Modi"/>
-            <br />
-            <sub><b>Sonal Modi</b></sub>
-        </a>
-    </td>    
 </table>
