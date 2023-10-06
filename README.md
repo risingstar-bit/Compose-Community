@@ -8,7 +8,7 @@ Use this project to make your first contribution to an open source project on Gi
 
 # What is Hacktoberfest?
 
-Hacktoberfest is a program by Digital Ocean, DEV and Github, where you can easily win digital reward kit just by making 4 pull requests in the month of October to any open source projects on Github that are labled as hacktoberfest.
+Hacktoberfest is a program by Digital Ocean, DEV and Github, where you can easily win digital reward kit just by making 4 or more pull requests in the month of October to any open source projects on Github which are labled as hacktoberfest.
 
 
 # Compose-Community
@@ -32,8 +32,10 @@ In general: `DSA/Programming Language/Project Name`
 
 Project/Code/Non-code Admin(s): 
 
-- [Ashish Kumar Saha](https://github.com/risingstar-bit)
-
+- [Ashish Saha](https://github.com/risingstar-bit)
+  
+- [Sonal Modi](https://github.com/Sonal-Modi-Git)
+  
 - [Anuragh Barua](https://github.com/AnuraghB)
 
 - [Aisha Agarwal](https://github.com/aisha09agarwal)
@@ -41,8 +43,6 @@ Project/Code/Non-code Admin(s):
 - [Sudip Ghosh](https://github.com/sudipg4112001)
 
 - [Suraj Modi](https://github.com/skmodi649)
-
-- [Sonal Modi](https://github.com/Sonal-Modi-Git)
 
 
 
@@ -58,6 +58,13 @@ Project/Code/Non-code Admin(s):
             <sub><b>Ashish Kumar Saha</b></sub>
         </a>
     </td>
+  <td align="center">
+        <a href="https://github.com/Sonal-Modi-Git">
+            <img src="https://avatars.githubusercontent.com/Sonal-Modi-Git" width="100;" alt="Sonal Modi"/>
+            <br />
+            <sub><b>Sonal Modi</b></sub>
+        </a>
+    </td>    
 <td align="center">
         <a href="https://github.com/AnuraghB">
             <img src="https://avatars.githubusercontent.com/anuraghb" width="100;" alt="Anuragh Barua"/>
@@ -87,11 +94,4 @@ Project/Code/Non-code Admin(s):
             <sub><b>Suraj Modi</b></sub>
         </a>
     </td>
-<td align="center">
-        <a href="https://github.com/Sonal-Modi-Git">
-            <img src="https://avatars.githubusercontent.com/Sonal-Modi-Git" width="100;" alt="Sonal Modi"/>
-            <br />
-            <sub><b>Sonal Modi</b></sub>
-        </a>
-    </td>    
 </table>
