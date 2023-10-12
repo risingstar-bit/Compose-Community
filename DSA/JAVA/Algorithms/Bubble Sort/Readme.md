@@ -12,7 +12,7 @@ It is an in-place sorting algorithm i.e. no extra space is needed for this sort,
 Time Complexity: O(N2)
 Auxiliary Space: O(1)
 
-#Example:
+# Example:
 
 ## Input: arr[] = {5, 1, 4, 2, 8}
 
