@@ -1,7 +1,7 @@
 # HacktoberFest - 2022 💻💻
 <br>
 <p align="center">
- <img src="https://uno-website-assets.s3.amazonaws.com/wp-content/uploads/2022/09/28094927/Uno_HackFest22_Hero_V1-1024x395.jpg" width="100%">
+ ![logo](https://github.com/risingstar-bit/Compose-Community/assets/85429920/92f6084b-ff23-44ac-a29c-d58b1eff62a7)
 </p>
 This repository aims to help code beginners with their first successful pull request and open source contribution. 
 
