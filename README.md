@@ -18,7 +18,7 @@ The moto of this community is - Learn, Explore and Contribute.
 You can add projects, solution to DSA problems, Cheatsheets, Roadmaps and Notes.
 
 
-Before contributing to it please go through CONTRIBUTING.md file.
+## Before contributing to it please go through CONTRIBUTING.md file.
 
 # Contributor Guidelines
 
