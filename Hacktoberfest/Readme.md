@@ -1,8 +1,6 @@
 # HacktoberFest - 2022 💻💻
 <br>
-<p align="center">
- ![logo](https://github.com/risingstar-bit/Compose-Community/assets/85429920/92f6084b-ff23-44ac-a29c-d58b1eff62a7)
-</p>
+
 This repository aims to help code beginners with their first successful pull request and open source contribution. 
 
 # Upload Projects or Different Types of Programs in any Language
