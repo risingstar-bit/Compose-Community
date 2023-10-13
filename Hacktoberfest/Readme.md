@@ -1,8 +1,5 @@
-# HacktoberFest - 2022 💻💻
+# HacktoberFest - 2023 💻💻
 <br>
-<p align="center">
- <img src="https://uno-website-assets.s3.amazonaws.com/wp-content/uploads/2022/09/28094927/Uno_HackFest22_Hero_V1-1024x395.jpg" width="100%">
-</p>
 This repository aims to help code beginners with their first successful pull request and open source contribution. 
 
 # Upload Projects or Different Types of Programs in any Language
