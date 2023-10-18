@@ -24,7 +24,7 @@ Compile the C source code:
 
 ```bash
 cd live_fomat_counter
-gcc Formatting counter.c -o formatting counter
+gcc 'Formatting counter.c' -o 'formatting counter'
 ```
 
 ## Usage
@@ -32,7 +32,7 @@ gcc Formatting counter.c -o formatting counter
 Run the compiled executable:
 
 ```bash
-./Formatting counter
+./'formatting counter'
 ```
 
 Follow the on-screen instructions to start and stop counting formatting keystrokes.
@@ -58,3 +58,4 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
