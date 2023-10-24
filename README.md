@@ -55,7 +55,7 @@ Project/Code/Non-code Admin(s):
         <a href="https://github.com/risingstar-bit">
             <img src="https://avatars.githubusercontent.com/u/85429920?v=4" width="100;" alt="Ashish Kumar Saha"/>
             <br />
-            <sub><b>Ashish Kumar Saha</b></sub>
+            <sub><b>Ashish Saha</b></sub>
         </a>
     </td>
   <td align="center">
