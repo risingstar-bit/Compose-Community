@@ -1,0 +1,60 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+struct stack
+{
+    int size;
+    int top;
+    int *arr;
+};
+
+int isEmpty(struct stack *ptr)
+{
+    if (ptr->top == -1)
+    {
+        return 1;
+    }
+    else
+    {
+        return 0;
+    }
+}
+
+int isFull(struct stack *ptr)
+{
+    if (ptr->top == ptr->size - 1)
+    {
+        return 1;
+    }
+    else
+    {
+        return 0;
+    }
+}
+
+int main()
+{
+    struct stack *s = (struct stack *)malloc(sizeof(struct stack)); // Allocate memory for the struct
+    s->size = 80;
+    s->top = -1;
+    s->arr = (int *)malloc(s->size * sizeof(int)); // Allocate memory for the array
+
+    // Pushing an element manually
+    s->arr[0] = 6;
+    s->top++;
+
+    // Check if the stack is empty
+    if (isEmpty(s))
+    {
+        printf("The stack is empty\n");
+    }
+    else
+    {
+        printf("The stack is not empty\n");
+    }
+
+    free(s->arr);  // Free the memory allocated for the array
+    free(s);       // Free the memory allocated for the struct
+
+    return 0;
+}
